@@ -1,0 +1,6 @@
+Flask==1.1.1
+flask_cors
+requests
+matplotlib
+wordcloud
+werkzeug==0.16.1
